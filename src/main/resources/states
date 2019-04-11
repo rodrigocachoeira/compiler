@@ -1,0 +1,6 @@
+q0 -> Initial State
+q1 -> Is a Number
+q2 -> pint or comma
+q3 -> quotation marks
+q4 -> Alpha Numeric or underline
+
